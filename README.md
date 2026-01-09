@@ -2,6 +2,8 @@
 
 A Streamlit in Snowflake application for analyzing and searching support tickets.
 
+![Support Ticket Dashboard](app.png)
+
 ## Features
 
 - **Interactive Filters**: Filter tickets by category, priority, and date range
