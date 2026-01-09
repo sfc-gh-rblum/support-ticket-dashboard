@@ -1,0 +1,16 @@
+definition_version: 2
+entities:
+  support_ticket_dashboard:
+    type: streamlit
+    identifier:
+      name: SUPPORT_TICKET_DASHBOARD
+      schema: DATA
+      database: DASH_MCP_DB
+    title: "Support Ticket Dashboard"
+    query_warehouse: DEMO_WH
+    main_file: app.py
+    pages_dir: null
+    external_access_integrations: []
+    artifacts:
+      - app.py
+      - requirements.txt
